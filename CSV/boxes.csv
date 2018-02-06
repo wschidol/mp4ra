@@ -22,6 +22,10 @@ dinf,"data information box, container",ISO
 dref,"data reference box, declares source(s) of media data in track",ISO
 dsgd,DVB Sample Group Description Box,DVB
 dstg,DVB Sample to Group Box,DVB
+dmlp,Decoder specific info for MLP audio,Dolby MLP
+dac3,Decoder specific info for AC-3 audio,ETSI AC-3
+dec3,Decoder specific info for Enhanced AC-3 audio,ETSI AC-3
+dac4,Decoder specific info for AC-4 audio,ETSI AC-4
 edts,edit list container,ISO
 elst,an edit list,ISO
 emsg,event message,DASH
